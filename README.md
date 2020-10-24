@@ -29,7 +29,7 @@ La eficiencia de un algoritmo no puede medirse en unidades de tiempo, ya que est
 
 ## Tabla complejidad Big O.
 
-[![Tabla complejidad Big O](https://github.com/error404LoveLetter/MejorandoElMaterialDisponible/blob/main/TablaComplejidadBigO.PNG)](https://www.bigocheatsheet.com)
+[![Tabla complejidad Big O](./TablaComplejidadBigO.PNG)](https://www.bigocheatsheet.com)
 
 ## Métodos de ordenamientos.
 
